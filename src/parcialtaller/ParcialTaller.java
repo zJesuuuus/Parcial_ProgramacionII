@@ -6,7 +6,7 @@ package parcialtaller;
 
 /**
  *
- * @author ACER
+ * JESUS HERNANDO URQUIJO ALVAREZ - 0192435 | JUAN DAVID GONZALEZ MANZANO - 0192293
  */
 import java.util.Scanner;
 
